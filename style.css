@@ -1,7 +1,3 @@
-.div {
- display: inline; 
-}
-
 #blue {
   background: blue;
 }
@@ -19,7 +15,7 @@
 }
 
 .intro-section {
-  display: block;
+  display: inline;
 }
 
 #color-display {

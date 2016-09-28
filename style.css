@@ -21,5 +21,7 @@
 }
 
 #color-display {
-  margin-top: 20px; 
+  margin-top: 20px;
+  font-size: 20px;
+  text-shadow: 2px 2px #3a3a3a;
 }

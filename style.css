@@ -1,18 +1,18 @@
 #blue {
-  background: lightblue;
+  background: blue;
 }
 
 #red {
-  
+  background: red;
 }
 
 #green {
-  
+  background: green;
 }
 
 #orange{
-  
-  
+ background: orange; 
+}
 
 .intro-section {
   display: block;

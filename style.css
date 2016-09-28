@@ -1,3 +1,7 @@
+.div {
+ display: inline; 
+}
+
 #blue {
   background: blue;
 }

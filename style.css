@@ -16,6 +16,8 @@
 
 .intro-section {
   display: inline;
+  font-size: 24px;
+  font-family: fantasy;
 }
 
 #color-display {
